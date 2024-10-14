@@ -16,7 +16,7 @@
 title: Kristina Liv Larsen
 email: kllarsen@stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website for Kristina Liv Larsen including art, photography, and scholarship related to map librarianship and contemporary uses of historic cartographic material.
+  Personal site for Kristina Liv Larsen including artwork, misc projects, and scholarship related to map librarianship and contemporary uses of historic cartographic material.
 twitter_username: _kristinaliv
 github_username: kristinallarsen
 minimal_mistakes_skin: neon
@@ -57,11 +57,11 @@ plugins:
   
 
 author:
-  name   : "Kristina Larsen"
+  name   : "Kristina Liv Larsen"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Map Librarian / Instructor / PgM / Artist into user-centered design, informal learning in GLAM, new uses for old maps, collaborative interdisciplinary problem-solving, and the interplay between technology and culture."
+  bio    : "Map Librarian / Artist / Teacher into user-centered design, informal learning in GLAM, new uses for old maps, collaborative interdisciplinary problem-solving, and the interplay between technology and culture."
   links:
-    - label: "Website"
+    - label: "Photo Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.klarsenart.com/"
     - label: "Twitter"
