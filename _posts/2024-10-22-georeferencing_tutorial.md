@@ -20,9 +20,10 @@ Here's some text about why you'd want to do this, which will show up above the j
 
 ***You do not need to get a link from both places, just choose one to use, copy it, and move to step 2.***
 
-Info Notice: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. {: .notice--info}
-
-Learn more about IIIF Manifests: [https://iiif.io/guides/using_iiif_resources/#what-is-a-iiif-manifest](https://iiif.io/guides/using_iiif_resources/#what-is-a-iiif-manifest) {: .notice--info}
+<div class="notice">
+  <h4>Learn more about IIIF Manifests</h4>
+  <p>[https://iiif.io/guides/using_iiif_resources/#what-is-a-iiif-manifest](https://iiif.io/guides/using_iiif_resources/#what-is-a-iiif-manifest)</p>
+</div>
 
 ### Find IIIF Manifest on Davidrumsey.com:
 
