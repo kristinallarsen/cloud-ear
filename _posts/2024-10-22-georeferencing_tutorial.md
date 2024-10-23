@@ -20,11 +20,6 @@ Here's some text about why you'd want to do this, which will show up above the j
 
 ***You do not need to get a link from both places, just choose one to use, copy it, and move to step 2.***
 
-<div class="notice">
-  <h4>Learn more about IIIF Manifests</h4>
-  <p>[https://iiif.io/guides/using_iiif_resources/#what-is-a-iiif-manifest](https://iiif.io/guides/using_iiif_resources/#what-is-a-iiif-manifest)</p>
-</div>
-
 ### Find IIIF Manifest on Davidrumsey.com:
 
 1. Click SHARE to reveal dropdown menu
@@ -62,5 +57,8 @@ On the next page, click “Mask”
 
 ![Screenshot showing completed mask.](https://github.com/user-attachments/assets/fdc5f526-8054-41c8-9a2f-88f29c779091)
 
+
+Learn more about IIIF Manifests
+[https://iiif.io/guides/using_iiif_resources/#what-is-a-iiif-manifest](https://iiif.io/guides/using_iiif_resources/#what-is-a-iiif-manifest)
 
 
