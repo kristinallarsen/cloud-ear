@@ -20,6 +20,8 @@ Here's some text about why you'd want to do this, which will show up above the j
 
 ***You do not need to get a link from both places, just choose one to use, copy it, and move to step 2.***
 
+Learn more about IIIF Manifests: [https://iiif.io/guides/using_iiif_resources/#what-is-a-iiif-manifest](https://iiif.io/guides/using_iiif_resources/#what-is-a-iiif-manifest) {: .notice--info}
+
 ### Find IIIF Manifest on Davidrumsey.com:
 
 1. Click SHARE to reveal dropdown menu
