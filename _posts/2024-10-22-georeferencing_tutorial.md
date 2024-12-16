@@ -13,31 +13,31 @@ tags:
 Here's some text about why you'd want to do this, which will show up above the jump.
 
 <!--more-->
-## Background Links
+## Background Info
 
-What is georeferencing?
+- What is georeferencing?
 [https://blogs.loc.gov/maps/2021/01/georeferencing-moving-analog-maps-into-modern-day-gis/](https://blogs.loc.gov/maps/2021/01/georeferencing-moving-analog-maps-into-modern-day-gis/)
 
-What is a IIIF Manifest?
+- What is a IIIF Manifest?
 [https://iiif.io/guides/using_iiif_resources/#what-is-a-iiif-manifest](https://iiif.io/guides/using_iiif_resources/#what-is-a-iiif-manifest)
 
-About Allmaps and Allmaps Editor
+- What is Allmaps?
 [https://allmaps.org/](https://allmaps.org/)
 
-Learn more about Felt: 
+- What is Felt? 
 [https://felt.com/about](https://felt.com/about)
 
-Documentation about doing more with Felt 
+- What else can you do with Felt? 
 [https://help.felt.com](https://help.felt.com)
 
 
-## 1. Locate and copy a IIIF manifest link for your map
+## 1.  Get Started: Locate and copy a IIIF manifest link for your map
 
 *IIIF manifest links can be found on many digital repository and library sites. Unfortunately, there’s not much standardization across sites as to where to put them in a record, so you may have to dig around for them. Below are screenshots of where to find manifest links on David Rumsey’s website and in Stanford’s Searchworks library catalog.*
 
 ***You do not need to get a link from both places, just choose one to use, copy it, and move to step 2.***
 
-### Find IIIF Manifest on Davidrumsey.com:
+### A. Find IIIF Manifest on Davidrumsey.com:
 
 1. Click SHARE to reveal dropdown menu
 2. Click “IIIF Manifests” to reveal text box with link
@@ -45,7 +45,7 @@ Documentation about doing more with Felt
 
 ![Screenshot indicating locations of SHARE and IIIF Manifest links on DavidRumsey.com](https://github.com/user-attachments/assets/4776a598-9147-4e2c-ae88-5ece091f0f75)
 
-### Find IIIF Manifest on Searchworks.stanford.edu:
+### B. Find IIIF Manifest on Searchworks.stanford.edu:
 
 1. Click the “hamburger menu” at upper left to reveal metadata sidebar 
 2. Scroll all the way to the bottom of the sidebar
@@ -54,7 +54,7 @@ Documentation about doing more with Felt
 
 ![Screenshot indicating location of hamburger menua and IIIF manifest link on Searchworks.](https://github.com/user-attachments/assets/b6132485-2b8f-481b-ac02-ca27ae9c0385)
 
-## 2. Georeference your map in Allmaps Editor
+## 2.  Georeference your map in Allmaps Editor
 
 1. Open Allmaps Editor: https://editor.allmaps.org
 2. Paste your IIIF manifest link into the text box and click “Load”
@@ -74,7 +74,26 @@ On the next page, click “Mask”
 
 ![Screenshot showing completed mask.](https://github.com/user-attachments/assets/fdc5f526-8054-41c8-9a2f-88f29c779091)
 
+### Georeference the map
 
+1. Click on “Georeference”
+2. Select a location on the “real world” in the window to the right, then select the corresponding point on the map in the window on the left. You have now created a ground control point or GCP! 
+3. Do this 4-6 times, choosing points at locations spread about the map’s area. (You may need more points, depending on how much the map image must be deformed to match with reality.)
+   
+![Screenshot 2024-12-16 at 12 50 53 PM](https://github.com/user-attachments/assets/6e2c12c5-74ac-43d0-8fb0-72e7887ea3ba)
+
+4. Click “Results”
+5. Copy the URL at the end of the page
+
+![Screenshot 2024-12-16 at 12 52 08 PM](https://github.com/user-attachments/assets/049b419a-d844-4a5a-8122-d582ff292ea4)
+
+## 3.  Place Georeferenced Map in a Map Layer in Felt.com 
+
+*There are other options for this step, like ArcGIS Online and QGIS, among others, but Felt.com is very easy for beginners. You can sign up for a trial membership and/or request a free educational license from an .edu email address.*
+
+### Make a New Map and Upload URL
+
+1. Click on “New Map” in the upper right corner
 
 
 
