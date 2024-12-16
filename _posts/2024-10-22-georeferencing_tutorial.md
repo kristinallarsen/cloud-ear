@@ -13,6 +13,23 @@ tags:
 Here's some text about why you'd want to do this, which will show up above the jump.
 
 <!--more-->
+## Background Links
+
+What is georeferencing?
+[https://blogs.loc.gov/maps/2021/01/georeferencing-moving-analog-maps-into-modern-day-gis/](https://blogs.loc.gov/maps/2021/01/georeferencing-moving-analog-maps-into-modern-day-gis/)
+
+What is a IIIF Manifest?
+[https://iiif.io/guides/using_iiif_resources/#what-is-a-iiif-manifest](https://iiif.io/guides/using_iiif_resources/#what-is-a-iiif-manifest)
+
+About Allmaps and Allmaps Editor
+[https://allmaps.org/](https://allmaps.org/)
+
+Learn more about Felt: 
+[https://felt.com/about](https://felt.com/about)
+
+Documentation about doing more with Felt 
+[https://help.felt.com](https://help.felt.com)
+
 
 ## 1. Locate and copy a IIIF manifest link for your map
 
@@ -58,7 +75,6 @@ On the next page, click “Mask”
 ![Screenshot showing completed mask.](https://github.com/user-attachments/assets/fdc5f526-8054-41c8-9a2f-88f29c779091)
 
 
-Learn more about IIIF Manifests
-[https://iiif.io/guides/using_iiif_resources/#what-is-a-iiif-manifest](https://iiif.io/guides/using_iiif_resources/#what-is-a-iiif-manifest)
+
 
 
