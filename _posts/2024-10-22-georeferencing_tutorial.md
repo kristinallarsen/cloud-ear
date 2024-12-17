@@ -10,7 +10,7 @@ tags:
 ---
 # How to Georeference a Map in Allmaps to Display in Felt
 
-*A step-by-step tutorial on how to georeference a map from DavidRumsey.com or Searchworks.edu using [Allmaps Editor](https://editor.allmaps.org/) and then display it in a webmap on Felt.com.*
+*A step-by-step tutorial on how to georeference a map from [DavidRumsey.com](DavidRumsey.com) or [Searchworks.Stanford.edu](Searchworks.Stanford.edu) using [Allmaps Editor](https://editor.allmaps.org/) and then display it in a webmap on [Felt.com](Felt.com).*
 <!--more-->
 ## Background Info
 
@@ -36,7 +36,7 @@ tags:
 
 ***You do not need to get a link from both places, just choose one to use, copy it, and move to step 2.***
 
-### A. Find IIIF Manifest on Davidrumsey.com:
+### A. Find IIIF Manifest on [Davidrumsey.com](https://www.DavidRumsey.com):
 
 1. Click SHARE to reveal dropdown menu
 2. Click “IIIF Manifests” to reveal text box with link
@@ -55,7 +55,7 @@ tags:
 
 ## 2.  Georeference your map in Allmaps Editor
 
-1. Open Allmaps Editor: https://editor.allmaps.org
+1. Open Allmaps Editor: [https://editor.allmaps.org](https://editor.allmaps.org)
 2. Paste your IIIF manifest link into the text box and click “Load”
 
 ![Screenshot showing the ALlmaps Editor input box.](https://github.com/user-attachments/assets/2dcc5286-2423-49b1-8332-4f8d3ac9b168)
@@ -86,7 +86,7 @@ On the next page, click “Mask”
 
 ![Screenshot 2024-12-16 at 12 52 08 PM](https://github.com/user-attachments/assets/049b419a-d844-4a5a-8122-d582ff292ea4)
 
-## 3.  Place Georeferenced Map in a Map Layer in Felt.com 
+## 3.  Place Georeferenced Map in a Map Layer in [Felt.com](https://www.felt.com). 
 
 *There are other options for this step, like ArcGIS Online and QGIS, among others, but Felt.com is very easy for beginners. You can sign up for a trial membership and/or request a free educational license from an .edu email address.*
 
