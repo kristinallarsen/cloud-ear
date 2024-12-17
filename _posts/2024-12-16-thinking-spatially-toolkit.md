@@ -1,5 +1,5 @@
 ---
-title: "Thinking Spatially Toolkit"
+title: "Link: Thinking Spatially Toolkit"
 categories:
   - Blog
 tags:
