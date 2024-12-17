@@ -9,9 +9,7 @@ tags:
   - standard
 ---
 # How to Georeference a Map in Allmaps to Display in Felt
-  
-Here's some text about why you'd want to do this, which will show up above the jump.
-
+*A step-by-step tutorial on how to georeference a map from DavidRumsey.com or Searchworks.edu using Allmaps Editor and then display it in a webmap on Felt.com.*
 <!--more-->
 ## Background Info
 
@@ -94,6 +92,37 @@ On the next page, click “Mask”
 ### Make a New Map and Upload URL
 
 1. Click on “New Map” in the upper right corner
+   
+![Screenshot 2024-12-16 at 3 51 26 PM](https://github.com/user-attachments/assets/f6715fae-6ba8-4b74-b6c9-ec20aa8074a9)
+
+2. In the new map, click on the Felt logo in the upper left and find “Upload by URL” in the dropdown menu
+
+![Screenshot 2024-12-16 at 3 52 05 PM](https://github.com/user-attachments/assets/04af5969-c58d-4911-aaa5-7c2e9794ac87)
+
+3. Paste the URL you created in step 2 in the pop-up box and click “Add to map”
+
+![Screenshot 2024-12-16 at 3 52 36 PM](https://github.com/user-attachments/assets/c9f74e1e-81ca-45f5-bf9e-133736f23a30)
+
+4. You will probably have to manually zoom to the place where your map should be the first time you view it.
+
+### Style and Name Map Elements
+
+1. Click on the Legend pane in the upper left to open the Style menu on the right. You can rename your layer in the place indicated by the arrow below. You can change the opacity of the map in that menu as well. Give your map a name by double-clicking on “Untitled Map” in the upper left corner and typing it in.
+
+![Screenshot 2024-12-16 at 3 53 51 PM](https://github.com/user-attachments/assets/18619cb5-4f42-4bc9-9fb4-59e1ec9ba2c5)
+
+2. You can now create additional layers and import other data or create your own points, lines, and polygons. See Felt documentation for more information: [https://help.felt.com](https://help.felt.com)
+
+### Map after renaming file and layer:
+
+![Screenshot 2024-12-16 at 3 54 53 PM](https://github.com/user-attachments/assets/a8e41ffa-49ff-4201-a67f-2f80824ab229)
+
+
+[View this map in Felt](https://felt.com/map/San-Antonio-Heights-rvyY9CjDYTiC7CzFzS10EiA?loc=34.155614,-117.655922,15.48z&share=1) 
+
+
+
+
 
 
 
