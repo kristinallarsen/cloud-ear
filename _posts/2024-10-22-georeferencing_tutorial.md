@@ -9,7 +9,7 @@ tags:
   - standard
 ---
 # How to Georeference a Map in Allmaps to Display in Felt
-*A step-by-step tutorial on how to georeference a map from DavidRumsey.com or Searchworks.edu using Allmaps Editor and then display it in a webmap on Felt.com.*
+*A step-by-step tutorial on how to georeference a map from DavidRumsey.com or Searchworks.edu using [Allmaps Editor](https://editor.allmaps.org/) and then display it in a webmap on Felt.com.*
 <!--more-->
 ## Background Info
 
