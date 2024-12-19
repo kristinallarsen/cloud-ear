@@ -8,7 +8,7 @@ tags:
   - teaching
   - maps
 ---
-# How to Georeference a Map in Allmaps to Display in Felt
+# How to Georeference a Map in Allmaps to Display in Felt:
 
 *A step-by-step tutorial on how to georeference a map from [DavidRumsey.com](DavidRumsey.com) or [Searchworks.Stanford.edu](Searchworks.Stanford.edu) using [Allmaps Editor](https://editor.allmaps.org/) and then display it in a webmap on [Felt.com](Felt.com).*
 <!--more-->
