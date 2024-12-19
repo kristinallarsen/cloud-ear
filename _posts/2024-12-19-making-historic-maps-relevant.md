@@ -8,8 +8,10 @@ tags:
   - teaching
   - maps
 ---
-## Job Talk
-# Making historic maps relevant 
+# Making historic maps relevant
+
+Methods for linking cartographic heritage to contemporary scholarship
+
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -21,4 +23,4 @@ tags:
 </iframe>
 </div>
 
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGS7hQmpcw&#x2F;P7vR2t66tWGRUdvNr0AL0Q&#x2F;view?utm_content=DAGS7hQmpcw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Rumsey Center short</a> by Kristina Larsen
+Presented at Stanford University October 9, 2024
