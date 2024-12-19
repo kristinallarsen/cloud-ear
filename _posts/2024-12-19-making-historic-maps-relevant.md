@@ -1,4 +1,15 @@
-
+---
+title: "Slides: Making historic maps relevant"
+date: 2024-12-16T18:00
+categories:
+  - Blog
+tags:
+  - lecture
+  - teaching
+  - maps
+---
+## Job Talk
+# Making historic maps relevant 
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
