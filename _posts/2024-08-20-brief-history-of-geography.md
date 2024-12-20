@@ -10,7 +10,12 @@ tags:
 ---
 *Lecture for INSC 543 Spatial Data Management at UTK School of Information Sciences, Fall 2024*
 
-* Part One: Origins of Geography
+#A Brief History of Geography
+
+## Part One: Origins of Geography
+
+{% include video id="1aOiSwoz4TBa6nNsLX__L4mNPfG8jGiIW" provider="google-drive" %}
+
 * Part Two: History of GIS
 * Part Three: GIS Users
 * Part Four: Data Types
