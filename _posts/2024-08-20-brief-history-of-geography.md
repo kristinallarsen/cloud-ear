@@ -8,9 +8,9 @@ tags:
   - teaching
   - maps
 ---
-*Lecture for INSC 543 Spatial Data Management at UTK School of Information Sciences, Fall 2024*
+*Presentation for INSC 543 Spatial Data Management at UTK School of Information Sciences, Fall 2024*
 
-#A Brief History of Geography
+# Lecture: A Brief History of Geography
 
 ## Part One: Origins of Geography
 
