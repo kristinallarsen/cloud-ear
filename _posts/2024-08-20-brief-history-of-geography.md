@@ -15,3 +15,4 @@ tags:
 * Part Three: GIS Users
 * Part Four: Data Types
 
+{% include video id="csYzFEwDcak" provider="youtube" %}
