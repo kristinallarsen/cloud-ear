@@ -11,7 +11,7 @@ tags:
 
 *Storymap-enabled essay about artist Connie Zheng's 2022 painting, "Land of Opportunity."*
 
-<iframe src="https://storymaps.arcgis.com/stories/eb7f18ec63aa412ead83e31eba6ea160" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation">
+<iframe src="https://storymaps.arcgis.com/stories/eb7f18ec63aa412ead83e31eba6ea160?header" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation">
   
 </iframe>
 
