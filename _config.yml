@@ -61,7 +61,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Map Librarian / Artist / Teacher focused on user-centered design, informal learning in GLAM, new uses for old maps, collaborative interdisciplinary problem-solving, and the interplay between technology and culture."
   links:
-    - label: "Photo Website"
+    - label: "Photography"
       icon: "fas fa-fw fa-link"
       url: "https://www.klarsenart.com/"
     - label: "Twitter"
@@ -94,7 +94,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: false
       related: true
