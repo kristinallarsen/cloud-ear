@@ -8,7 +8,7 @@ tags:
   - teaching
   - maps
 ---
-*Presentation for INSC 543 Spatial Data Management at UTK School of Information Sciences, Fall 2024. 
+*Presentation for INSC 543 Spatial Data Management at UTK School of Information Sciences, Fall 2024.* 
 
 *Based on original course syllabus and lecture frameworks created by Wade Bishop.*
 
