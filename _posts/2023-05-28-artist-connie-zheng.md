@@ -1,14 +1,13 @@
 ---
-title: "Essay: Finding Maps"
+title: "Essay: Connie Zheng's 'Land of Opportunity'"
 date: 2022-07-29T18:00
 categories:
   - Blog
 tags:
-  - lecture
-  - teaching
+  - writing
+  - art
   - maps
 ---
-## Essay
 
 *Storymap-enabled essay about artist Connie Zheng's 2022 painting, "Land of Opportunity."*
 
