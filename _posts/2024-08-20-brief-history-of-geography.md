@@ -16,7 +16,7 @@ tags:
 
 ## Part One: Origins of Geography
 
-{% include video id="1k0odMvM0uq72ihIMV4l16faWcea9OHE9" provider="google-drive" %}
+{% include video id="1Nliv79mrCudWoJZmsbU4xdZi0imsQlAb" provider="google-drive" %}
 
 ## Part Two: History of GIS
 
