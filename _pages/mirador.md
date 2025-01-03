@@ -1,7 +1,6 @@
 ---
 title: "Mirador Gallery Testing"
 permalink: /mirador/
-layout: pages
 author_profile: false
 ---
  # Context for this frame
