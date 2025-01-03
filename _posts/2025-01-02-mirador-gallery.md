@@ -5,7 +5,7 @@ categories:
   - Blog
 tags:
   - teaching
-  - IIIF
+  - iiif
 ---
 ## Seeking Simple IIIF Image Gallery 
 *I am on a quest to find a truly lightweight workflow for creating collections of digital maps from multiple repositories using IIIF for use in library instruction.*
