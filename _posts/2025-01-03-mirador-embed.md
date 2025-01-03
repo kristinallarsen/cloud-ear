@@ -8,7 +8,7 @@ tags:
   - maps
   - iiif
 ---
-*Trying to embed the auto-install Mirador Gallery in another page*
+*Test of ability to embed the auto-install Mirador Gallery in another page*
 
 <div style="position: relative; padding-bottom: 68.25%; padding-top: 35px; height: 0; overflow: hidden;">
   
