@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: IIF > Allmaps Editor > Felt.com"
+title: "Tutorial: IIIF > Allmaps Editor > Felt.com"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -7,6 +7,7 @@ tags:
   - tutorial
   - teaching
   - maps
+  - iiif
 ---
 # How to Georeference a Map in Allmaps to Display in Felt:
 
