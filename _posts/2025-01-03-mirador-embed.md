@@ -8,7 +8,10 @@ tags:
   - maps
   - iiif
 ---
-*Test of ability to embed the auto-install Mirador Gallery in another page*
+*Tests of ability to embed the auto-install Mirador Gallery in another page*
+
+[Link to testing page](https://kristinallarsen.github.io/cloud-ear/mirador/)
   
 <iframe width="100%" height="600" src="https://kristinallarsen.github.io/mirador-git-gallery/"></iframe>
+
 
