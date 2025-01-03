@@ -1,6 +1,6 @@
 ---
 title: "Experiment: Easy IIIF Gallery Quest 1"
-date: 2021-12-01T18:00
+date: 2025-01-03T18:00
 categories:
   - Blog
 tags:
@@ -8,10 +8,10 @@ tags:
   - IIIF
   - teaching
 ---
-# Experiment: Easy IIIF Gallery
+
 *I am on a quest to find a truly lightweight workflow for creating collections of digital maps from multiple repositories using IIIF for use in library instruction.*
 
-I created this [Mirador Gallery](https://kristinallarsen.github.io/mirador-git-gallery/) in GitHub pages by following Tim Sherrat's instructions at the link below.
+I created this [Mirador Gallery](https://kristinallarsen.github.io/mirador-git-gallery/) showing eight different versions of John Mitchell's mid-eighteenth century "Map of the British and French Dominions in North America" in GitHub pages by following Tim Sherrat's instructions for installing Mirador, which you can read at the following link:
 
 [https://github.com/wragge/mirador-ghpages](https://github.com/wragge/mirador-ghpages)
 
@@ -29,11 +29,11 @@ This could work for student projects since Github pages are hosted for free.
 
 Of course, the ideal solution would also somehow also incorporate georeferencing capabilities. 
 
-# Hypothetical Demo
-## Create a personal map viewer
+## Hypothetical Classroom Demo
+### Create a personal map viewer
 - Search for maps (tutorial)
 - Define a question (group work)
-- Select eight maps (independent work)
+- Select up to eight maps (independent work)
 - Work in Github (create account and familiarize with software before class, probably, via tutorials)
 - Use template to create new repository
 - Lightweight configuration
