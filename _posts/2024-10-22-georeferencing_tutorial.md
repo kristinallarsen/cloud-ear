@@ -2,6 +2,7 @@
 title: "Tutorial: IIIF > Allmaps Editor > Felt.com"
 excerpt_separator: "<!--more-->"
 toc: true
+toc_sticky: false
 categories:
   - Blog
 tags:
