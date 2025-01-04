@@ -7,6 +7,8 @@ tags:
   - lecture
   - teaching
   - maps
+header:
+  teaser: /assets/images/hist-map.png
 ---
 ## Presentation Slides
 *From a lightning talk about teaching strategies for connecting historical maps to contemporary scholarship.*
