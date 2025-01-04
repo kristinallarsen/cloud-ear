@@ -7,6 +7,8 @@ tags:
   - writing
   - art
   - maps
+header:
+  teaser: /assets/images/zheng.jpg
 ---
 
 *Storymap-enabled essay about artist Connie Zheng's 2022 painting, "Land of Opportunity."*
