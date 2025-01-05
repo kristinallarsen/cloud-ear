@@ -1,5 +1,5 @@
 ---
-title: "Map: Oakland Black Panther Party'"
+title: "Map: Oakland Black Panther Party"
 date: 2024-10-25T18:00
 categories:
   - Blog
