@@ -9,7 +9,7 @@ tags:
 ---
 *Tests of ability to embed a leaflet protoype maps in another page*
 
-[Link to testing page](https://kristinallarsen.github.io/leaflet/leaflet-tutorial.html))
+[Link to testing page](https://kristinallarsen.github.io/leaflet/leaflet-tutorial.html)
   
 <iframe width="100%" height="600" src="https://kristinallarsen.github.io/leaflet/leaflet-tutorial.html/"></iframe>
 
