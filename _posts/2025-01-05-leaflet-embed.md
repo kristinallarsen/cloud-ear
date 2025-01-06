@@ -7,7 +7,7 @@ tags:
   - teaching
   - maps
 ---
-*Tests of ability to embed a leaflet protoype maps in another page*
+*Test of ability to embed a leaflet protoype map in another page*
 
 [Link to testing page](https://kristinallarsen.github.io/leaflet/leaflet-tutorial.html)
   
