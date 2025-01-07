@@ -8,7 +8,7 @@ tags:
   - maps
 classes: wide
 ---
-*Test of ability to embed a leaflet protoype map in another page*
+*Test of ability to embed a leaflet protoype map in another page Test of ability to embed a leaflet protoype map in another page Test of ability to embed a leaflet protoype map in another page Test of ability to embed a leaflet protoype map in another page*
 
 [Link to testing page](https://kristinallarsen.github.io/leaflet/index.html)
   
