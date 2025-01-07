@@ -6,6 +6,7 @@ categories:
 tags:
   - teaching
   - maps
+classes: wide
 ---
 *Test of ability to embed a leaflet protoype map in another page*
 
