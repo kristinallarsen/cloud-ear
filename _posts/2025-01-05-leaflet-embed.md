@@ -13,4 +13,4 @@ tags:
   
 <iframe width="100%" height="600" src="https://kristinallarsen.github.io/leaflet/"></iframe>
 
-
+Add this: [Leaflet Side-by-side](https://www.youtube.com/watch?v=R6xybRnfzh4) 
