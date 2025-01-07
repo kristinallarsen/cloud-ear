@@ -8,7 +8,10 @@ tags:
   - teaching
   - maps
 ---
-*Lecture for INSC 543 Spatial Data Management at UTK School of Information Sciences, Fall 2024*
+*Presentation for INSC 543 Spatial Data Management at UTK School of Information Sciences, Fall 2024.* 
+
+*One of a series of lectures based on original course syllabus, class structure, and lecture frameworks created by Wade Bishop, drawn from the text "Geographic Information: Organization, Access, and Use" by Bishop & Grubesic published by Springer International Publishing in 2016* [[doi:10.1007/978-3-319-22789-4]](https://doi.org/10.1007/978-3-319-22789-4)
+
 
 <div style="position: relative; padding-bottom: 68.25%; padding-top: 35px; height: 0; overflow: hidden;">
   
