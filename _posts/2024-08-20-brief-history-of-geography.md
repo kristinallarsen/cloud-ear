@@ -12,8 +12,6 @@ tags:
 
 *One of a series of lectures based on original course syllabus, class structure, and lecture frameworks created by Wade Bishop, drawn from the text "Geographic Information: Organization, Access, and Use" by Bishop & Grubesic published by Springer International Publishing in 2016* [[doi:10.1007/978-3-319-22789-4]](https://doi.org/10.1007/978-3-319-22789-4)
 
-# Class Lecture: A Brief History of Geography
-
 ## Part One: Origins of Geography
 
 {% include video id="1Nliv79mrCudWoJZmsbU4xdZi0imsQlAb" provider="google-drive" %}
