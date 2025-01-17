@@ -53,7 +53,6 @@ toc_sticky: true
 - [5 Ways GIS Users Can Expand Their Geospatial Skills](https://www.geographyrealm.com/5-ways-skills-gis-users/?utm_medium=email&utm_campaign=GeoNL-2025-Jan-8&utm_source=YMLP) from Caitlin Dempsey at Geography Realm
 - [Where is Snowpack Receding](https://www.maps.com/global-average-monthly-snowpack-map-shows-decline-since-2000/) by Roddy Deming at Maps.com
 - [The Black Panther Party Made Maps](https://storymaps.arcgis.com/stories/6ad5e71cf60b43fb9ca19a28f2af5232) attributed to Alameda County Food Bank
-- [Maps at an Exhibition: Minding the Material Gap](https://www.tandfonline.com/doi/full/10.1080/03085694.2024.2335741?src=recsys) by Martin Bruckner in Imago Mundi
 - [A Map That Visualizes Walkable Neighborhoods Across the US](https://www.bloomberg.com/news/newsletters/2024-09-11/how-walkable-is-your-neighborhood-a-new-map-tool-offers-an-answer) by Laura Bliss on Bloomberg.com
 - [Inside Iron Mountain: It’s Time to Talk About Hard Drives](https://www.mixonline.com/business/inside-iron-mountain-its-time-to-talk-about-hard-drives) by Steve Harvey on MIX
 - [The Lawrence Captive Airship Over San Francisco in 1906 and 1908](https://web.archive.org/web/20060928053322/http://robroy.dyndns.info/lawrence/kitelines97.html) by Simon Baker in [Kite Lines magazine](https://web.archive.org/web/20060902163036/http://www.kitelife.com/kitelines/). About on historic aerial kite photrography
@@ -62,6 +61,7 @@ toc_sticky: true
 ## Articles
 - [A Case for Objects: Material Culture in the History Classroom](https://doi.org/10.1093/ahr/rhae356), Sarah Jones Weicksel in *The American Historical Review*, Volume 129, Issue 3, September 2024, Pages 1129–1153
 - National Academies of Sciences, Engineering, and Medicine. 2024. Constructing Valid Geospatial Tools for Environmental Justice. Washington, DC: The National Academies Press. [https://doi.org/10.17226/27317](https://doi.org/10.17226/27317).
+- [Maps at an Exhibition: Minding the Material Gap](https://www.tandfonline.com/doi/full/10.1080/03085694.2024.2335741?src=recsys) by Martin Bruckner in Imago Mundi
 
   
 ## Videos
