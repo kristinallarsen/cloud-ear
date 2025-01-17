@@ -6,8 +6,6 @@ toc: true
 toc_sticky: true
 ---
 
-# Links I Like
-
 *A place to save things to return to and share* 
 
 *aka "things I've slacked myself"*
