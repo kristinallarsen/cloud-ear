@@ -1,4 +1,5 @@
 ---
+permalink: /links/
 title: "Links I Like"
 excerpt_separator: "<!--more-->"
 toc: true
