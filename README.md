@@ -4,15 +4,16 @@ Noodling around with Github Pages.
 
 
 ---
----
+## Helpful Links
+### Minimal Mistakes remote theme
 
-## Minimal Mistakes remote theme starter
+[Configuration](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
 
-[Configuration](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+### Troubleshooting resources
 
-## Troubleshooting resources
+[Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). 
 
-[Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+Other resources:
 
 - [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
 - [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
