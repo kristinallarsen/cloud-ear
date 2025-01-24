@@ -26,7 +26,7 @@ toc_sticky: true
 
 ## Imaginary Places
 - [Lake Chimay](https://en.wikipedia.org/wiki/Lake_Chimay)
-  - [Lake Chimay; Asia’s mythical mother of rivers](https://www.researchgate.net/publication/327155061_'Lake_Chiamay_Asia's_mythical_mother_of_rivers'_The_Globe_Journal_of_the_Australian_and_New_Zealand_Map_Society_83_43-62_2018) by Michael Pearson
+  - [Lake Chiamay; Asia’s mythical mother of rivers](https://www.researchgate.net/publication/327155061_'Lake_Chiamay_Asia's_mythical_mother_of_rivers'_The_Globe_Journal_of_the_Australian_and_New_Zealand_Map_Society_83_43-62_2018) by Michael Pearson
 
 ## Missing Places
 - [Tulare Lake (or "California Zombie Lake)](https://ca.water.usgs.gov/projects/central-valley/tulare-basin.html)
