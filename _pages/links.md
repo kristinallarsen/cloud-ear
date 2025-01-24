@@ -75,4 +75,5 @@ toc_sticky: true
 
 ## Allmaps URLs
 - John Snow's Cholera Map: [https://allmaps.xyz/maps/0d38d81b9bd044d3/%7Bz%7D/%7Bx%7D/%7By%7D.png](https://allmaps.xyz/maps/0d38d81b9bd044d3/%7Bz%7D/%7Bx%7D/%7By%7D.png)
--  
+- Coleccion "Billiken" - Mapa ilustrado de la Provincia de Santiago del Estero [https://allmaps.xyz/maps/c9e44dea848e0f58/{z}/{x}/{y}.png](https://allmaps.xyz/maps/c9e44dea848e0f58/{z}/{x}/{y}.png)
+- 
