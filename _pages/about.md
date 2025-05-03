@@ -3,6 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Kristina Liv Larsen is Assistant Curator at the David Rumsey Map Center at Stanford University Libraries. She has a bachelor’s degree in studio art with a sculpture concentration from Hampshire College in Amherst, MA, and earned a Master of Science in Information Sciences and Research Data Management certificate from the University of Tennessee, Knoxville in 2023. She is interested in informal learning in galleries, libraries, and museums (GLAM), scholarship with maps as primary sources, collaborative interdisciplinary problem-solving, and the interplay between technology and culture.
