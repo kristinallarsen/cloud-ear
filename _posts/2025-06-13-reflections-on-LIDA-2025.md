@@ -1,6 +1,6 @@
 ---
 title: "Reflections on LIDA 2025"
-date: 2022-07-29T18:00
+date: 2025-06-13T18:00
 categories:
   - Blog
 tags:
