@@ -20,6 +20,6 @@ Click map to view on DavidRumsey.com
 
 ### In AllMaps
 Click map to view in Allmaps Editor
-[![Map of the City and County of San Francisco 1864 in Allmaps Editor interface](assets/images/1864_map_of_SF_PLN11809.png)](https://editor.allmaps.org/results?url=https%3A%2F%2Fwww.davidrumsey.com%2Fluna%2Fservlet%2Fiiif%2Fm%2FRUMSEY%7E8%7E1%7E303659%7E90074286%2Fmanifest&image=https%3A%2F%2Fwww.davidrumsey.com%2Fluna%2Fservlet%2Fiiif%2FRUMSEY%7E8%7E1%7E303659%7E90074286)
+[![Map of the City and County of San Francisco 1864 in Allmaps Editor interface](/assets/images/1864_map_of_SF_PLN11809.png)](https://editor.allmaps.org/results?url=https%3A%2F%2Fwww.davidrumsey.com%2Fluna%2Fservlet%2Fiiif%2Fm%2FRUMSEY%7E8%7E1%7E303659%7E90074286%2Fmanifest&image=https%3A%2F%2Fwww.davidrumsey.com%2Fluna%2Fservlet%2Fiiif%2FRUMSEY%7E8%7E1%7E303659%7E90074286)
 
 
