@@ -1,5 +1,5 @@
 ---
-title: "Using a IIIF Allmaps layer in Leaflet"
+title: "Using an Allmaps IIIF layer in Leaflet"
 date: 2025-06-30T18:00
 categories:
   - Blog
