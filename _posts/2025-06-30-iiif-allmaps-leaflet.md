@@ -1,5 +1,5 @@
 ---
-title: "IIIF Allmaps Leaflet Experiment"
+title: "Using a IIIF Allmaps layer in Leaflet"
 date: 2025-06-30T18:00
 categories:
   - Blog
@@ -9,7 +9,7 @@ tags:
   - maps
 ---
 ## Using an Allmaps Georeferenced IIIF map image in a Leaflet Map
-[It's here](https://kristinallarsen.github.io/leaflet/leaflet_iiif_allmapsxyz.html) 
+[(It's here)](https://kristinallarsen.github.io/leaflet/leaflet_iiif_allmapsxyz.html) 
 
 <iframe width="100%" height="1000" frameBorder="0" src="https://kristinallarsen.github.io/leaflet/leaflet_iiif_allmapsxyz.html"></iframe>
 
