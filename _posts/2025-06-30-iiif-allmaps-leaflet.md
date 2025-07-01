@@ -1,6 +1,6 @@
 ---
 title: "IIIF Allmaps Leaflet Experiment"
-date: 2025-06-303T18:00
+date: 2025-06-30T18:00
 categories:
   - Blog
 tags:
