@@ -12,7 +12,9 @@ tags:
 
 *LIDA 2025 Share Out*
   
-*Slides collecting my thoughts and some highlights from Libraries and Information Institutions in the Digital Age (LIDA) held in Dubrovnik, Croatia in May, 2025. Work in progress.*
+*Slides collecting my thoughts and some highlights from Libraries and Information Institutions in the Digital Age (LIDA) held in Dubrovnik, Croatia in May, 2025.*
+
+*Work in progress- last updated 7/1*
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT-obYXoBBvwLbyh5TlQdHJbtZaMPvmh_a_H4OC5z9HjIje5NdYK5GvZnPO3ieuKEPjBULs09ENP4ae/pubembed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
