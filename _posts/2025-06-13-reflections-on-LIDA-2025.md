@@ -14,7 +14,7 @@ tags:
   
 *Slides collecting my thoughts and some highlights from Libraries and Information Institutions in the Digital Age (LIDA) helf in Dubrovnik, Croatia in May, 2025.*
 
-<iframe src="https://docs.google.com/presentation/d/1-yMeRvkhakGzx7paZ5Jzy-b-odxghcmUFjEpt63McWA/edit?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+<iframe src="[https://docs.google.com/presentation/d/1-yMeRvkhakGzx7paZ5Jzy-b-odxghcmUFjEpt63McWA/edit?usp=sharing](https://docs.google.com/presentation/d/1-yMeRvkhakGzx7paZ5Jzy-b-odxghcmUFjEpt63McWA/edit?slide=id.g36054beb5e9_0_20#slide=id.g36054beb5e9_0_20)" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
 
 </iframe>
 
