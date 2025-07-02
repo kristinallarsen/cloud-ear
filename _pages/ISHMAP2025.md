@@ -25,10 +25,10 @@ toc_sticky: true
 ### Tools
 - [Allmaps Editor](https://editor.allmaps.org/)
 - [Felt.com](felt.com)
-- [Leafletjs.com](Leafletjs.com
+- [Leafletjs.com](Leafletjs.com)
 
 ### References
-1. Kim, Jina & Li, Zekun & Lin, Yijun & Namgung, Min & Jang, Leeje & Chiang, Yao-Yi. (2023). The mapKurator System: A Complete Pipeline for Extracting and Linking Text from Historical Maps. 10.48550/arXiv.2306.17059. 
+1. Kim, Jina & Li, Zekun & Lin, Yijun & Namgung, Min & Jang, Leeje & Chiang, Yao-Yi. (2023). The mapKurator System: A Complete Pipeline for Extracting and Linking Text from Historical Maps. [10.48550/arXiv.2306.17059](https://doi.org/10.48550/arXiv.2306.17059). 
 2. Larsen, Kristina Liv, Thornberry, Evan, & Vitale, Valeria. (2024) Teaching and Learning With Text on Maps: A David Rumsey Collection Case Study. Imago Mundi (76)2 [https://doi.org/10.1080/03085694.2024.2453335](https://doi.org/10.1080/03085694.2024.2453335)
 3. [https://iiif.io/community/consortium/](https://iiif.io/community/consortium/)
 4. “Allmaps Makes It Easier to Find Old Maps and Use Them in Research.” TU Delft, [https://www.tudelft.nl/en/2024/library/allmaps-makes-it-easier-to-find-old-maps-and-use-them-in-research](https://www.tudelft.nl/en/2024/library/allmaps-makes-it-easier-to-find-old-maps-and-use-them-in-research). Accessed 12 June 2025.
