@@ -6,7 +6,7 @@ toc: true
 toc_sticky: true
 ---
 
-*Links and resources related to poster presentation at ISHMap 2025, Paris, France* 
+*Links and resources related to poster presentation at [ISHMap 2025, Paris, France](https://ishmap.com/ishmap-2025-paris-symposium-and-workshop/)* 
 
 ## Poster Presentation
 - Link to poster design: [New Tools for Old Maps: Cloud-Based Methods for Working with Historical Cartographic Images](https://www.canva.com/design/DAGsQp-OSrA/MxB3lLTTlWBU5izV5qMkGw/view?utm_content=DAGsQp-OSrA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h17ac2dddf4)
