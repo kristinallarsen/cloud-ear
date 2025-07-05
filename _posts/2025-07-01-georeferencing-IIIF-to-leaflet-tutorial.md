@@ -11,10 +11,12 @@ tags:
   - maps
   - iiif
 ---
-# How to Georeference a Map in Allmaps and Display it in Leaflet:
+# How to Georeference a Map in Allmaps and Display it in Leaflet
+
+*Work in progress, last updated 7/1/25.*
 
 *A step-by-step tutorial on how to georeference a map from [DavidRumsey.com](DavidRumsey.com) or [Searchworks.Stanford.edu](Searchworks.Stanford.edu) using [Allmaps Editor](https://editor.allmaps.org/) and then display it in a webmap made with [Leafletjs.com](Leafletjs.com).*
-*Work in progress, last updated 7/1/25.*
+
 <!--more-->
 ## Background Info
 
