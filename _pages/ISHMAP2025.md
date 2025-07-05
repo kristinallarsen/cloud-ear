@@ -23,8 +23,10 @@ toc_sticky: true
 - Europeana - [All IIIF-enabled items](https://www.europeana.eu/en/search?page=1&qf=collection%3Amap&query=provider_aggregation_edm_isShownBy%3A%2Aiiif%2A&view=grid)
 - Europeana - [Maps and Geography theme](https://www.europeana.eu/en/themes/maps-and-geography)
 - Stanford's Searchworks catalog, filtered for [IIIF Maps](https://searchworks.stanford.edu/?f%5Bformat_main_ssim%5D%5B%5D=Map&f%5Biiif_resources%5D%5B%5D=available) (not on poster)
+- IIIF Map Collections on [AllMaps GitHub](https://github.com/allmaps/iiif-map-collections/tree/main) (not on poster)
 
 ### Tools
+- Documentation about [Text on Maps on DavidRumsey.com](https://machines-reading-maps.github.io/rumsey/)
 - [Allmaps Editor](https://editor.allmaps.org/)
 - [Felt.com](felt.com)
 - [Leafletjs.com](Leafletjs.com)
