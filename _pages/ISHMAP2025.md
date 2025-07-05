@@ -29,7 +29,10 @@ toc_sticky: true
 - Documentation about [Text on Maps on DavidRumsey.com](https://machines-reading-maps.github.io/rumsey/)
 - [Allmaps Editor](https://editor.allmaps.org/)
 - [Felt.com](felt.com)
+- Learn more about [Felt's free educational licenses](https://felt.com/education)
 - [Leafletjs.com](Leafletjs.com)
+- Maps georeferenced with AllMaps Editor can also be included in [ArcGIS Online](https://www.arcgis.com/index.html) and [QGIS(https://qgis.org/) following established processes for incorporating externally referenced tile layers.  
+
 
 ### References
 1. Kim, Jina & Li, Zekun & Lin, Yijun & Namgung, Min & Jang, Leeje & Chiang, Yao-Yi. (2023). The mapKurator System: A Complete Pipeline for Extracting and Linking Text from Historical Maps. [10.48550/arXiv.2306.17059](https://doi.org/10.48550/arXiv.2306.17059). 
@@ -41,4 +44,3 @@ toc_sticky: true
 - [About IIIF](https://iiif.io/)
 - [IIIF Maps Community Group](https://iiif.io/community/groups/maps/) 
 - [Allmaps.org](https://allmaps.org/)
-- Maps georeferenced with AllMaps can also be included in ArcGIS Online and QGIS following established processes for incorporating externally referenced tile layers.  
