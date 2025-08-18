@@ -9,6 +9,7 @@ toc_sticky: true
 *Links and resources related to poster presentation at [ISHMap 2025, Paris, France](https://ishmap.com/ishmap-2025-paris-symposium-and-workshop/)* 
 
 ## Poster Presentation
+- Permanent link to poster in the Stanford Digital Repository: [https://doi.org/10.25740/hs418vj8919](https://doi.org/10.25740/hs418vj8919)
 - Link to poster design: [New Tools for Old Maps: Cloud-Based Methods for Working with Historical Cartographic Images](https://www.canva.com/design/DAGsQp-OSrA/MxB3lLTTlWBU5izV5qMkGw/view?utm_content=DAGsQp-OSrA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h17ac2dddf4)
 
 ### Example Maps
@@ -31,7 +32,8 @@ toc_sticky: true
 - [Felt.com](felt.com)
 - Learn more about [Felt's free educational licenses](https://felt.com/education)
 - [Leafletjs.com](Leafletjs.com)
-- Maps georeferenced with AllMaps Editor can also be included in [ArcGIS Online](https://www.arcgis.com/index.html) and [QGIS](https://qgis.org/) following established processes for incorporating externally referenced tile layers. (not on poster) 
+- Maps georeferenced with AllMaps Editor can also be included in [ArcGIS Online](https://www.arcgis.com/index.html) and [QGIS](https://qgis.org/) following established processes for incorporating externally referenced tile layers. (not on poster)
+- Tutorial on how to add IIIF images georeferenced in Allmaps to a Leaflet webmap: [Tutorial: IIIF > Allmaps Editor > Leaflet Map](http://kristinalivlarsen.com/blog/georeferencing-IIIF-to-leaflet-tutorial/) (not on poster)
 
 
 ### References
