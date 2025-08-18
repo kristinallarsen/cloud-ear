@@ -13,9 +13,9 @@ tags:
 ---
 # How to Georeference a Map in Allmaps and Display it with Leaflet
 
-*[Work in progress, last updated 7/1/25.]*
+*[Work in progress, last updated 8/17/25.]*
 
-*A step-by-step tutorial on how to georeference a map from [DavidRumsey.com](DavidRumsey.com) or [Searchworks.Stanford.edu](Searchworks.Stanford.edu) using [Allmaps Editor](https://editor.allmaps.org/) and then display it in a webmap made with [Leafletjs.com](Leafletjs.com).*
+*A step-by-step tutorial on how to georeference a map from [DavidRumsey.com](DavidRumsey.com) or [Searchworks.Stanford.edu](Searchworks.Stanford.edu) using [Allmaps Editor](https://editor.allmaps.org/) and then display it in a webmap made with [Leafletjs.com](https://leafletjs.com/).*
 
 <!--more-->
 ## Background Info
@@ -104,7 +104,7 @@ On the next page, click “Mask”
   - [Transparency slider code Leaflet Plugin](https://github.com/lizardtechblog/Leaflet.OpacityControls/tree/master)
 
 ### Start building the html for your page
-Here is my html for the page through the end of the <head> section. 
+Here is my html for the page through the end of the head section. 
 *Note that the links to Leaflet CSS and JS are absolute links to their server, whie the CSS and JS for the opacity slider are relative links to my local installation of fhe files.* 
 
 ```
@@ -211,7 +211,91 @@ Close the script, body, and html containers
 
 ```
 
-### To be continued...
+
+Here's the full html code of the page
+
+```
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Leaflet PLUS ALLMAPS XYZ</title>
+<!-- Leaflet CSS and JS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     crossorigin=""/>
+ <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     crossorigin="">
+    </script>
+
+<!--JS and CSS for ControlOpacity plugin slider and buttons, installed in my Leaflet repository-->
+<script src="lib/jquery/jquery-1.9.1.js"></script>
+<script src="lib/jquery/jquery-ui-1.10.3.custom.min.js"></script>
+<link rel="stylesheet" href="lib/jquery/jquery-ui-1.10.3.custom.min.css" />
+<link rel="stylesheet" href="lib/opacity/Control.Opacity.css" />
+<script src="lib/opacity/Control.Opacity.js"></script>
+
+<!-- CSS for the map container -->
+<style>
+		html, body {
+			height: 100%;
+			margin: 0px;
+		}
+		.leaflet-container {
+			height: 1000px;
+			width: 1200px;
+			max-width: 100%;
+			max-height: 100%;
+		}
+	</style>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body>
+<div id="map" style="width: 1200px; height: 1000px;"></div>
+<script>
+// Initialize the map and set its view to a specific center point and zoom level. 
+// Choose center point coordinates that correspond to the center of the historical map you are using.
+// Allmaps tile server currently only supports one zoom level; here we set it to 13.
+const map = L.map('map', {
+  center: [37.757144, -122.443657], // San Francisco
+  zoom: 13,
+});
+
+// Define the OpenStreetMap tile layer
+const OpenStreetMap = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  maxZoom:13,
+  attribution:
+    '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+});
+// Define the georeferenced historical map tile layer from Allmaps Editor. We've named this "AllMaps"
+const AllMaps = L.tileLayer('https://allmaps.xyz/images/ad87bd6513550e53/{z}/{x}/{y}@2x.png', {
+  maxZoom:13,
+  attribution:
+    '&copy; <a href="https://allmaps.xyz">Allmaps</a> contributors'
+});
+
+// Add the OpenStreetMap and AllMaps layers to the map
+OpenStreetMap.addTo(map);
+AllMaps.addTo(map);
+
+// Add the ControlOpacity plugin controls
+var higherOpacity = new L.Control.higherOpacity();
+map.addControl(higherOpacity);
+var lowerOpacity = new L.Control.lowerOpacity();
+map.addControl(lowerOpacity);
+var opacitySlider = new L.Control.opacitySlider();
+map.addControl(opacitySlider);
+higherOpacity.setOpacityLayer(AllMaps);
+
+</script>
+
+</body>
+</html>
+
+```
 
 
 
