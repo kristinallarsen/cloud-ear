@@ -18,6 +18,10 @@ tags:
 *A step-by-step tutorial on how to georeference a map from [DavidRumsey.com](https://www.davidrumsey.com/) or [Searchworks.Stanford.edu](https://searchworks.stanford.edu/) using [Allmaps Editor](https://editor.allmaps.org/) and then display it in a webmap made with [Leafletjs.com](https://leafletjs.com/).*
 
 <!--more-->
+## Example
+
+This tutorial will guide you through the creation of a webmap similar to the one viewable [at this link](https://kristinallarsen.github.io/leaflet/leaflet_iiif_allmapsxyz.html). 
+
 ## Background Info
 
 - What is georeferencing?
@@ -35,7 +39,7 @@ tags:
 
 ## 1.  Get Started: Locate and copy a IIIF manifest link for your map
 
-*IIIF manifest links can be found on many digital repository and library sites. Unfortunately, there’s not much standardization across sites as to where to put them in a record, so you may have to dig around for them. Below are screenshots of where to find manifest links on David Rumsey’s website and in Stanford’s Searchworks library catalog.*
+*IIIF manifest links can be found on many digital repository and library sites. Unfortunately, there’s not much standardization across sites as to where to put them in a record, so you may have to dig around for them. Below are screenshots of where to find manifest links on David Rumsey’s website and in Stanford’s Searchworks library catalog. As of August 2025 the designs of these websites have changed so screenshots may not match their current state.*
 
 ***You do not need to get a link from both places, just choose one to use, copy it, and move to step 2.***
 
