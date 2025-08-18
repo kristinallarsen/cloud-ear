@@ -15,7 +15,7 @@ tags:
 
 *[Work in progress, last updated 8/17/25.]*
 
-*A step-by-step tutorial on how to georeference a map from [DavidRumsey.com](DavidRumsey.com) or [Searchworks.Stanford.edu](Searchworks.Stanford.edu) using [Allmaps Editor](https://editor.allmaps.org/) and then display it in a webmap made with [Leafletjs.com](https://leafletjs.com/).*
+*A step-by-step tutorial on how to georeference a map from [DavidRumsey.com](https://www.davidrumsey.com/) or [Searchworks.Stanford.edu](https://searchworks.stanford.edu/) using [Allmaps Editor](https://editor.allmaps.org/) and then display it in a webmap made with [Leafletjs.com](https://leafletjs.com/).*
 
 <!--more-->
 ## Background Info
@@ -31,9 +31,6 @@ tags:
 
 - What is Leaflet? 
 [https://leafletjs.com/](https://leafletjs.com/)
-
-- What else can you do with Felt? 
-[https://leafletjs.com/examples.html](https://leafletjs.com/examples.html)
 
 
 ## 1.  Get Started: Locate and copy a IIIF manifest link for your map
