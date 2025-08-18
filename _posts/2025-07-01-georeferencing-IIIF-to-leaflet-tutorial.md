@@ -94,7 +94,8 @@ On the next page, click “Mask”
 
 ## 3.  Place Georeferenced Map in a Map Layer using Leaflet
 *To create a webpage in which the Leaflet map will be displayed, we are using GitHub Pages, the same platform underpinning this tutorial and blog.* 
-Set up your repository and GitHub Page
+
+### Set up your repository and GitHub Page
 - Create a new GitHub Repository for your webmap project. Mine is called ["leaflet"](https://github.com/kristinallarsen/leaflet)
 - Create and publish a GitHub Page in the repository. Mine is called ["leaflet_iiif_allmapsxyz.html"](https://kristinallarsen.github.io/leaflet/leaflet_iiif_allmapsxyz.html)
   - [Quick Start guide for creating and configuring a GitHub Page](https://docs.github.com/en/pages/quickstart)
@@ -102,7 +103,8 @@ Set up your repository and GitHub Page
   - I downloaded the whole "lib" directory from the repository below and uploaded it to my "leaflet" repository. I'm sure there's a better way to do this :)
   - [Transparency slider code Leaflet Plugin](https://github.com/lizardtechblog/Leaflet.OpacityControls/tree/master)
 
-Start building the html for your page. Here's my html through the end of the <head>
+### Start building the html for your page
+Here is my html for the page through the end of the <head> section. 
 *Note that the links to Leaflet CSS and JS are absolute links to their server, whie the CSS and JS for the opacity slider are relative links to my local installation of fhe files.* 
 
 ```
@@ -144,11 +146,11 @@ Start building the html for your page. Here's my html through the end of the <he
 </head>
 
 ```
-Continue building the page:
+### Continue building the page
 - Add html for your webmap, following this tutorial from "Preparing the Page" through "Setting up the Map" (you can ignore everything after "Markers, circles, and polygons" for now).
    - [Quick Start guide tutorial for creating a Leaflet webmap](https://leafletjs.com/examples/quick-start/)
 - Define a second layer for your Allmaps xyz tile, replacing URL with the link you copied in Step 5 above  
-- OR just copy my code, in which I defined the map container, an Open Street Map layer, and the Allmaps layer with const declarations and then called both layers into the map (again, replace my link with yours, and replace the center point per the comment):
+- OR just copy my code, in which I defined the map container, an Open Street Map layer, and the Allmaps layer with const declarations and then called both layers into the map (again, replace my Allmaps link with yours, and replace the center point per the comment)
 
 ```
 <body>
@@ -181,8 +183,35 @@ AllMaps.addTo(map);
 
 ```
 
+### Add code for the opacity controller
 
-To be continued...
+If you have called your Allmaps layer something different you will need to change the code to match in the last line below.
+
+```
+// Add the ControlOpacity plugin controls
+var higherOpacity = new L.Control.higherOpacity();
+map.addControl(higherOpacity);
+var lowerOpacity = new L.Control.lowerOpacity();
+map.addControl(lowerOpacity);
+var opacitySlider = new L.Control.opacitySlider();
+map.addControl(opacitySlider);
+higherOpacity.setOpacityLayer(AllMaps);
+
+```
+
+### Complete the page
+
+Close the script, body, and html containers
+
+```
+</script>
+
+</body>
+</html>
+
+```
+
+### To be continued...
 
 
 
