@@ -4,9 +4,8 @@ date: 2022-07-29T18:00
 categories:
   - Blog
 tags:
-  - lecture
-  - teaching
-  - maps
+  - writing
+  - libraries
 ---
 ## Presentation Slides
 
