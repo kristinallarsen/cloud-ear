@@ -24,4 +24,4 @@ Presentation based on research paper.
     src="https://www.canva.com/design/DAE_ZIksCiE/BGLQbUYNtV2HqX-4OhqXSQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE_ZIksCiE&#x2F;BGLQbUYNtV2HqX-4OhqXSQ&#x2F;view?utm_content=DAE_ZIksCiE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Making Digitized Historical Maps More Accessible</a> by Kristina Larsen
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE_ZIksCiE&#x2F;BGLQbUYNtV2HqX-4OhqXSQ&#x2F;view?utm_content=DAE_ZIksCiE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Improving Usability of Online Historical Map Collections</a> by Kristina Larsen
