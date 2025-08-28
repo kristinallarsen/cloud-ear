@@ -10,7 +10,7 @@ tags:
 ---
 ## Discussion prompts for teaching with maps
 
-In the winter and spring quarters of the last academic year I collaborated our instructional support specialist student workers to develop and refine teaching tools and activities for use during class visits to the map center.
+In the winter and spring quarters of the last academic year I collaborated with our instructional support specialist student workers to develop and refine teaching tools and activities for use during class visits to the map center.
 
 We came up with the idea of having small cards with prompts on them to give students as entry points for engagement with historical maps. 
 
