@@ -19,27 +19,25 @@ Julie van den Hout made our first set of seven cards, laying them out in a Word 
 
 ![convocardsv1](https://github.com/user-attachments/assets/b82c0029-6a43-49d2-90b1-914a2b581ee6)
 
-The "find three x" prompt format was inspired by PhD. candidate Kelly Fu's prompts for a class she brought to the map center early in the winter quarter. 
+The "find three x" prompt format was inspired by PhD. candidate Kelly Fu's effective discussion questions for a class she brought to the map center early in the winter quarter. 
 
 We found that the cards worked well to encourage conversation, and students enjoyed the game-like experience. 
 
-The cards were most effective when used by one person or a small group analyzing a single map.
-
-We discovered that they did not work as well for large groups of students looking at groups of maps.
+The cards were most effective when used by one person or a small group analyzing a single map. Because of the wording, they did not work as well for larger groups of students looking at multiple maps.
 
 ### V1.5 prototyping
 
-Excited by these early successes, I worked to expand the first set of prompts and created an additional set intended for scenarios where students would compare more than one map.  
+Encouraged by these early successes, I worked to expand the first set of prompts and created an additional set intended for scenarios where students would compare more than one map.  
 
-I built the lists in Google Sheets and created layouts in Google Docs. In the image below, the single map prompts are blue and the prompts requiring more than one map are gray.
+I built the lists in Google Sheets and created layouts in Google Docs. In the image below, the single map prompts are gray and the prompts requiring more than one map are blue.
 
 ![convocardsv15](https://github.com/user-attachments/assets/53084626-a258-4c5b-9610-03613032bc2c)
 
-Once printed, I shared them with colleagues in the map center. Through conversations it became clear that a single deck would be preferable, so I worked to standardize the format of the questions. 
+Once printed, I shared them with colleagues in the map center. 
 
 ### V2.0 printed deck of 50
 
-Colleagues gave feedback and contributed additional prompts in the spreadsheet.  
+Colleagues gave feedback and contributed additional prompts in the spreadsheet. Through conversations it became clear that a single deck would be preferable, so I worked to standardize the format of the questions.  
 
 <img width="1194" height="678" alt="promptspreadsheet" src="https://github.com/user-attachments/assets/c4ae7fe3-8f2a-482a-9c8f-3694c5e3d8be" />
 
