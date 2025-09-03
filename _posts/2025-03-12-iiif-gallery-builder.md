@@ -10,7 +10,7 @@ tags:
 
 classes: wide
 ---
-*Gallery Builder prototyping with ChatGPT *
+*Gallery Builder prototyping with ChatGPT*
 
 After my first chaotic experiment writing code with Chat GPT and publishing it to GitHub pages I regrouped and focused on creating a local version of the app, based on Evan Thornberry’s sage advice.  
 
