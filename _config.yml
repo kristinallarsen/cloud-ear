@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal site for Kristina Liv Larsen including artwork, misc projects, and scholarship related to map librarianship and contemporary uses of historic cartographic material.
 twitter_username: _kristinaliv
 github_username: kristinallarsen
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
