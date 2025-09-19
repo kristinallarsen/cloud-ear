@@ -14,13 +14,20 @@ classes: wide
 
 After my first chaotic experiment writing code with Chat GPT and publishing it to GitHub pages I regrouped and focused on creating a local version of the app, based on Evan Thornberry’s sage advice.  
 
-This time ChatGPT and I (lol) came up with a simpler solution which does not require the use of a server to save and retrieve files, because you just download a JSON file of your gallery once created and upload it to view it again. 
+See my [first attempt and hypothetical classroom demo](http://kristinalivlarsen.com/blog/mirador-gallery/). 
+
+This time ChatGPT and I came up with a simpler solution which does not require the use of a server to save and retrieve files, because you just download a JSON file of your gallery once created and upload it to view it again. 
 
 This version also creates a combined manifest out of the individual manifests, instead of whatever the last iteration was trying (and failing) to do. 
 
-It’s ugly but it works: 
+It’s ugly but it works!
 
-[Link to page under development](https://kristinallarsen.github.io/gallery-builder/)
+Things to try:
+- Copy one or more of the manifests below, or add your own in the first field
+- Practice naming, exporting, and uploading your gallery files 
+
+[IIIF Image Gallery Builder](https://kristinallarsen.github.io/gallery-builder/)
+
 
 There is much MUCH more to say about how every single institution is handling basic information like titles, dates, and authors in completely different ways in their manifests. Right now, this can parse manifests from Stanford University Libraries, David Rumsey Map Collection, Digital Commonwealth, Library of Congress, and the Victoria and Albert Museum. 
  
