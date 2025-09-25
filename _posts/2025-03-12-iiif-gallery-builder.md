@@ -37,7 +37,7 @@ There is much MUCH more to say about how every single institution is handling ba
  
 Perhaps there is some logic at work that I don’t yet understand (is it because of the underlying information management systems?) but I thought the point of the IIIF Framework was consistency. 
 
-## Sample Imdividual Manifests
+## Sample Individual Manifests
 
 ```
 https://collections.leventhalmap.org/search/commonwealth:t722qd86g/manifest,
