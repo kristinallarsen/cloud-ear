@@ -17,3 +17,8 @@ In order to use images from the Internet Archive in any IIIF viewer you have to 
 High on the success of bossing chatbots into generating code for me, I asked Gemini 2.5 pro to make this webapp that builds the URL for me. 
 
 <iframe src="https://kristinallarsen.github.io/IIIFmanifest_maker/" allow="clipboard-write" style="border:none;" width="100%" height="600" title="IIIF Manifest Generator"></iframe>
+
+
+Here are instructions on how to do this manually, from the <a href="https://iiif.io/guides/guides/archive.org/">IIIF Get Started Guide for the Internet Archive:</a>
+
+<img width="779" height="209" alt="IIIFmanifestsonIA" src="https://github.com/user-attachments/assets/733f7233-4175-4229-9d18-5b3696293a65" />
