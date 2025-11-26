@@ -16,4 +16,4 @@ In order to use images from the Internet Archive in any IIIF viewer you have to 
 
 High on the success of bossing chatbots into generating code for me, I asked Gemini 2.5 pro to make this webapp that builds the URL for me. 
 
-<iframe src="https://kristinallarsen.github.io/IIIFmanifest_maker/" allow="clipboard-write" style="border:none;" width="100%" height="625" title="IIIF Manifest Generator"></iframe>
+<iframe src="https://kristinallarsen.github.io/IIIFmanifest_maker/" allow="clipboard-write" style="border:none;" width="100%" height="600" title="IIIF Manifest Generator"></iframe>
