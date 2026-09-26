@@ -6,6 +6,10 @@ title: "About Me"
 
 *Photo credit: Laura Krueger*
 
-Kristina Liv Larsen is Assistant Curator at the David Rumsey Map Center at Stanford University Libraries. She has a bachelor’s degree in studio art with a sculpture concentration from Hampshire College in Amherst, MA, and earned a Master of Science in Information Sciences and Research Data Management certificate from the University of Tennessee, Knoxville in 2023. She is interested in informal learning in galleries, libraries, and museums (GLAM), scholarship with maps as primary sources, collaborative interdisciplinary problem-solving, and the interplay between technology and culture.
+As Associate Curator at Stanford's David Rumsey Map Center, I help people think deeply with historical maps and primary sources by designing learning experiences, building exhibitions, and figuring out how to make special collections feel relevant and accessible.
 
-[2025 CV](https://docs.google.com/document/d/17ng3ZQ2crMEmpyCL3Fj3xg2HF-kvClrZvOJzzgaoRoM/edit?tab=t.0)
+My path here has been circuitous and driven by curiosity. I spent nearly a decade at the Exploratorium learning how people learn, then moved into moonshot territory at X (Google's experimental lab), where I managed design engagements, coordinated hardware prototyping, and co-invented two patents for vehicle pod systems. I've taught graduate students how to manage spatial data, freelanced as a visual designer, and shown my own artwork along the way. The common threads in all of this are interests in interdisciplinary collaboration, the interplay of place and material culture, and fostering creative environments where inquiry and discovery can happen.
+
+My research focuses on use of cloud-based digital tools in map history, overcoming obstacles to learning in special collections, and what it means to be a map librarian today. I've published in Imago Mundi and the Journal of Education for Library and Information Science (JELIS), and presented at conferences including the International Conference on the History of Cartography (ICHC), the North American Cartographic Information Society (NACIS) annual meeting, and the California Conference on Library Instruction (CCLI). 
+
+[2026 CV](https://docs.google.com/document/d/17ng3ZQ2crMEmpyCL3Fj3xg2HF-kvClrZvOJzzgaoRoM/edit?tab=t.0)
