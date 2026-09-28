@@ -16,6 +16,6 @@ Anticipating a lot of talk about AI and automation we decided to focus on ways o
 
 <div style="position: relative; padding-bottom: 68.25%; padding-top: 35px; height: 0; overflow: hidden;">
   
-<iframe src="https://canva.link/bizf4bmk2agkplt" frameborder="0" allow="autoplay; encrypted-media; allowfullscreen" style="display: block; position: absolute; top:0; left: 50%; transform:translateX(-50%);-webkit-transform:translateX(-50%);-moz-transform:translateX(-50%); width: 100%; height: 100%;" ></iframe>
+<iframe src="https://canva.link/bizf4bmk2agkplt" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 </div>
