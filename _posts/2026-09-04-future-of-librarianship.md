@@ -17,5 +17,6 @@ Anticipating a lot of talk about AI and automation we decided to focus on ways o
 <div style="position: relative; padding-bottom: 68.25%; padding-top: 35px; height: 0; overflow: hidden;">
   
 <iframe src="https://mynewtest.my.canva.site/future-of-librarianship-serg-retreat-20206" frameborder="0" allow="autoplay; encrypted-media; allowfullscreen" style="display: block; position: absolute; top:0; left: 50%; transform:translateX(-50%);-webkit-transform:translateX(-50%);-moz-transform:translateX(-50%); width: 100%; height: 100%;" ></iframe>
+<iframe src="" frameborder="0" allow="autoplay; encrypted-media; allowfullscreen" style="display: block; position: absolute; top:0; left: 50%; transform:translateX(-50%);-webkit-transform:translateX(-50%);-moz-transform:translateX(-50%); width: 100%; height: 100%;" ></iframe>
 
 </div>
