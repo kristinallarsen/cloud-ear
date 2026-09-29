@@ -23,6 +23,6 @@ An [in-depth tutorial can be accessed here](https://davidrumseymapcenter.github.
 
 Below is a recording of a presentation shared waaaay back in January at the IIIF Online Meeting where I first publically discussed the project. 
 
-<iframe src="https://drive.google.com/file/d/1AwlNFekkq5MxaL0HQm03_BCO9EOwNb5u/view?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://drive.google.com/file/d/1AwlNFekkq5MxaL0HQm03_BCO9EOwNb5u/preview" width="640" height="480"></iframe>
 
 [Primary Sources Sets with IIIF - Slides](https://canva.link/7g0q48mt9mm0mrm)
