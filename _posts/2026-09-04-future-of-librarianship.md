@@ -8,7 +8,7 @@ tags:
   - iiif
   - libraries
 ---
-## Building a culture of feedback,reflection, and continuous improvement
+## Building a culture of feedback, reflection, and continuous improvement
 
 This is a slide deck co-presented with my colleague, cataloger Laura Krueger at a department retreat about The Future of Librarianship.
 
