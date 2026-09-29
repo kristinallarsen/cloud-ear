@@ -18,7 +18,7 @@ More info and documentation to come on this one, but for now here's a workflow w
 
 Quick Links:
 
-Open App:[vibe-coded app](https://davidrumseymapcenter.github.io/toponym-extractor/)
+Open App: [Toponym Extractor](https://davidrumseymapcenter.github.io/toponym-extractor/)
 
 Download (right click and save) sample [geojson file with text annotations]([assets/P. Famin_Carte_du_Cayor et du_Diambour_1883.geojson](https://github.com/kristinallarsen/cloud-ear/blob/master/assets/P.%20Famin_Carte_du_Cayor%20et%20du_Diambour_1883.geojson)) 
 
