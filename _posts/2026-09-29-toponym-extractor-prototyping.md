@@ -16,7 +16,7 @@ More info and documentation to come on this one, but for now here's a quick way 
 
 ## Quick Demo
 
-Open App: [Toponym Extractor](https://davidrumseymapcenter.github.io/toponym-extractor/)
+Open App in a new tab: [Toponym Extractor](https://davidrumseymapcenter.github.io/toponym-extractor/)
 
 Download (right click and save) sample [geojson file with text annotations](https://github.com/kristinallarsen/cloud-ear/blob/master/assets/P_Famin_Carte_du_Cayor%20et%20du_Diambour_1883.geojson). 
 
