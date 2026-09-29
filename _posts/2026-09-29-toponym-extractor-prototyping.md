@@ -12,11 +12,9 @@ tags:
 
 This [vibe-coded app](https://davidrumseymapcenter.github.io/toponym-extractor/) turns MapReader text detections in pixel coordinates into a latitude/longitude table, using the ground control points in an Allmaps Georeference Annotation. 
 
-More info and documentation to come on this one, but for now here's a workflow with screenshots:
+More info and documentation to come on this one, but for now here's a quick way for you to demo, and a more detailed [workflow with screenshots](https://docs.google.com/document/d/e/2PACX-1vQIincuK7XVyd1maS_vf72_ROt5AVKO6KQ4PhetZfCpYU49KPOx2DrlueHIIkujqTBdjMnrAPSdSA8P/pub). 
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQIincuK7XVyd1maS_vf72_ROt5AVKO6KQ4PhetZfCpYU49KPOx2DrlueHIIkujqTBdjMnrAPSdSA8P/pub?embedded=true" frameborder="0" width="569" height="960" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-Quick Links:
+Quick Demo:
 
 Open App: [Toponym Extractor](https://davidrumseymapcenter.github.io/toponym-extractor/)
 
