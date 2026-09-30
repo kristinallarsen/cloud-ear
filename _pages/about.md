@@ -12,4 +12,4 @@ My path here has been circuitous and driven by curiosity. I spent nearly a decad
 
 My research focuses on use of cloud-based digital tools in map history, overcoming obstacles to learning in special collections, and what it means to be a map librarian today. I've published in Imago Mundi and the Journal of Education for Library and Information Science (JELIS), and presented at conferences including the International Conference on the History of Cartography (ICHC), the North American Cartographic Information Society (NACIS) annual meeting, and the California Conference on Library Instruction (CCLI). 
 
-[2026 CV](https://docs.google.com/document/d/17ng3ZQ2crMEmpyCL3Fj3xg2HF-kvClrZvOJzzgaoRoM/edit?tab=t.0)
+[2026 CV](https://docs.google.com/document/d/e/2PACX-1vR6DCBjO88Alrq8mu0F7W5Go5PZn1WOtBO9Zmp6cHEDxjRoQklAPL4JOBVEqRMtMVdDl4x7FwuX1XA4/pub)
