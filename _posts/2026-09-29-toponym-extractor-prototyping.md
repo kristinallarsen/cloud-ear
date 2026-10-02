@@ -10,10 +10,8 @@ tags:
 header:
   teaser: /assets/images/toponym.jpg
 ---
-<figure class="align-center">
-  <img src="/assets/images/topopnym.jpg" alt="" />
-  <figcaption>Screenshot of the map view in the Toponym Extractor </figcaption>
-</figure>
+
+<img src="/assets/images/topopnym.jpg" alt="" />
 
 ## Deriving lat/long coordinates from pixel-based text annotations
 
