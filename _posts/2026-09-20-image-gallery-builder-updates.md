@@ -7,6 +7,8 @@ tags:
   - teaching
   - iiif
   - libraries
+header:
+  teaser: /assets/images/gallery.jpg
 ---
 ## A no longer new but definitely improved IIIF Image Gallery app
 
