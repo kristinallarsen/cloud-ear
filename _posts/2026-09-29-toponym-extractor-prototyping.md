@@ -11,8 +11,6 @@ header:
   teaser: /assets/images/toponym.jpg
 ---
 
-<img src="/assets/images/topopnym.jpg" alt="" />
-
 ## Deriving lat/long coordinates from pixel-based text annotations
 
 This [vibe-coded app](https://davidrumseymapcenter.github.io/toponym-extractor/) turns MapReader text detections in pixel coordinates into a downloadable csv file with latitude/longitude, using the ground control points in an Allmaps Georeference Annotation. 
