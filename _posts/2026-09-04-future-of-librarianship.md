@@ -7,6 +7,8 @@ tags:
   - teaching
   - iiif
   - libraries
+header:
+  teaser: /assets/images/future.jpg
 ---
 ## Building a culture of feedback, reflection, and continuous improvement
 
