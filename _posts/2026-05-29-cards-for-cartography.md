@@ -7,6 +7,8 @@ tags:
   - teaching
   - iiif
   - libraries
+header:
+  teaser: /assets/images/cards.jpg
 ---
 ## Gamification of Visual Analysis in the Map Library
 
