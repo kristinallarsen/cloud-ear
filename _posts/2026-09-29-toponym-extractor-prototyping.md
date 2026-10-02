@@ -20,7 +20,7 @@ More info and documentation to come on this one, but for now here's a quick way 
 
 Open App in a new tab: [Toponym Extractor](https://davidrumseymapcenter.github.io/toponym-extractor/)
 
-Download (right click and save) sample [geojson file with text annotations](/assets/P_Famin_Carte_du_Cayor%20et%20du_Diambour_1883.geojson). 
+Download (right click and save) sample [geojson file with text annotations](/assets/P_Famin_Carte_du_Cayor_et_du_Diambour_1883.geojson). 
 
 Upload that file in card one, **MapReader detections**
 
