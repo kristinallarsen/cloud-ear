@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/toponym.jpg
 ---
 
-# Toponym Extraction Workflow Screenshots
+# A step-by-step guide with screenshots
  
 This document provides a step-by-step guide for extracting toponyms from historical maps using various tools and platforms, including Internet Archive, Allmaps Editor, and Toponym Extractor.
 
